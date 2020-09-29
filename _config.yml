@@ -19,7 +19,6 @@ urls:
 # Edit these details
 
 author_logo: QA-Stions-Square.png
-author: Jesús Pajares
 author_bio: Any QA-Stions?
 author_email: "qastions.info@gmail.com"
 author_location: Granada
@@ -27,7 +26,6 @@ author_location: Granada
 # social links
 twitter_username: qastions
 github_username:  QAStions
-linkedin_username: company/qa-stions
 
 # formspree (contact form)
 formspree_email: qastions.info@gmail.com

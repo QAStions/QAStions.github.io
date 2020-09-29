@@ -28,7 +28,7 @@ twitter_username: qastions
 github_username:  QAStions
 
 # Build settings
-theme: minima
+remote_theme: devlopr-jekyll
 plugins:
   - jekyll-feed
 

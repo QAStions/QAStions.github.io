@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: Sobre QA-Stions?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Nace una nueva comunidad, QA-Stions?, en la que queremos conversar y debatir con vosotros acerca de métodos de calidad de software.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+La dinámica será seleccionar un tema entre los que se propongan -contando, por supuesto, con la persona que lo ha propuesto- y grabar una videollamada de unos 5-10 minutos analizándolo y respondiendo todas las preguntas que puedan surgir. Debates, nuevas tecnologías, conversaciones... tú decides!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+¿Te gustaría participar? Escribe a qastions.info@gmail.com y cuéntanos de qué te gustaría hablar! [qastions.info@gmail.com](mailto:qastions.info@gmail.com)

@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: QA-Stions?
+email: qastions.info@gmailcom
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Nace una nueva comunidad, QA-Stions?, en la que queremos conversar y debatir con vosotros acerca de métodos de calidad de software.
+La dinámica será seleccionar un tema entre los que se propongan -contando, por supuesto, con la persona que lo ha propuesto- y grabar una videollamada de unos 5-10 minutos analizándolo y respondiendo todas las preguntas que puedan surgir. Debates, nuevas tecnologías, conversaciones... tú decides!
+¿Te gustaría participar? Escribe a qastions.info@gmail.com y cuéntanos de qué te gustaría hablar!
+No olvides seguirnos en: LinkedIn: https://www.linkedin.com/company/qa-stions Twitter: https://twitter.com/QaStions
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: qastions
+github_username:  QAStions
 
 # Build settings
 theme: minima

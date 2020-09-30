@@ -6,7 +6,7 @@ layout: default
   <div class="col-lg-4 offset-md-1">
     <div class="card" id="profile-card">
       <a href="/">
-        <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}" class="profile-img" />
+        <img src="{{site.url}}{{site.baseurl}}/QA-Stions-Square.png" class="profile-img" />
       </a>
       <h1 class="profile-name">{{ site.title }}</h1>
       <p class="profile-bio">{{ site.subtitle }}</p>
@@ -93,12 +93,6 @@ layout: default
       {% endif %}
     </div>
 
-    <div class="card">
-      <h1>Skills</h1>
-
-      {%- include author_skills.html -%}
-    </div>
-
     {% if site.wakatime_username %}
     <div class="card">
       <h1>Coding Activity</h1>
@@ -110,7 +104,7 @@ layout: default
   <div class="col-lg-7">
     {% if site.author_bio %}
     <div class="card">
-      <h1 class="card-title">About</h1>
+      <h1 class="card-title">Sobre QA-Stions?</h1>
       <p>{{ site.author_bio }}</p>
     </div>
     {% endif %} {% if site.show_author_project_details == true %}

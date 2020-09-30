@@ -7,27 +7,25 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.githu
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: Sobre QA-Stions?
-      url: /about
+    - text: Home
+      url: /#/
     - text: Blog
       url: /blog
-    - text: Galería
-      url: /gallery
+    - text: Sobre QA-Stions?
+      url: /about
     - text: Contactar
       url : /contact
 
 # Edit these details
 
 author_logo: QA-Stions-Square.png
-author: Jesús Pajares
-author_bio: Any QA-Stions?
+author_bio: Podcast sobre el mundo QA ¿Te gustaría participar? Escribe a qastions.info@gmail.com y cuéntanos de qué te gustaría hablar!
 author_email: "qastions.info@gmail.com"
 author_location: Granada
 
 # social links
 twitter_username: qastions
 github_username:  QAStions
-linkedin_username: company/qa-stions
 
 # formspree (contact form)
 formspree_email: qastions.info@gmail.com

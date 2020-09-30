@@ -7,12 +7,12 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.githu
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: Sobre QA-Stions?
-      url: /about
+    - text: Home?
+      url: /#/
     - text: Blog
       url: /blog
-    - text: Galería
-      url: /gallery
+    - text: Sobre QA-Stions?
+      url: /about
     - text: Contactar
       url : /contact
 
